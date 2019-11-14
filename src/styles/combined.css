@@ -1,0 +1,2 @@
+.nav_container{height:10vh;background:brown;display:flex;padding:0 2em}.nav_navBar{width:100%;display:flex;align-items:center}.nav_links{display:flex;justify-content:space-around;align-items:center;list-style:none;background:yellow;height:10vh;color:black;width:50%;margin-left:auto}*{box-sizing:border-box;margin:0;padding:0}body{font-family:sans-serif}body a{text-decoration:none}
+/*# sourceMappingURL=combined.css.map */
